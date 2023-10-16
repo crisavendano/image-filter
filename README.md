@@ -1,2 +1,2 @@
 # image-filter
-Images are saved inside *bin* file
+Images are saved inside *bin* directory
